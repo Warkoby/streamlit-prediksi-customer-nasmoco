@@ -5,7 +5,9 @@ pywin32==306
 scipy==1.12.0
 spicy==0.16.0
 sympy==1.12
-matplotlib
-pandas
-scikit-learn
 streamlit
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
